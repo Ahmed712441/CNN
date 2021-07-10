@@ -6,4 +6,4 @@ Softmax : creating a layer with activation function as softmax</br>
 Relu : creating a layer with activation function as softmax</br>
 Max_pool : creating a maxpool layer with given filtersize</br>
 Conv : creating a conv2d layer with given filtersize,num_filters</br>
-Model : used for a combining layers in one model and compile it</br>
+Model : used for combining layers in one model and compile it</br>
